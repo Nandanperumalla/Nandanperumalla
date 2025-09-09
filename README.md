@@ -117,7 +117,6 @@ const developer = {
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Nandanperumalla&repo=your-best-repo&theme=radical&hide_border=true)](https://github.com/Nandanperumalla)
 
-*More awesome projects coming soon! 🚀*
 
 </div>
 
@@ -131,6 +130,7 @@ const developer = {
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/nandan15/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandan-perumalla-580a78319/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandanperumalla15@gmail.com)
+
 
 </div>
 
