@@ -1,4 +1,4 @@
-# Hi there, I'm Nandan! 👋
+# Hi there, I'm Nandan Perumalla
 
 <div align="center">
 
@@ -6,7 +6,7 @@
 
 </div>
 
-## 🚀 About Me
+## 🚀 About Me:
 
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
@@ -32,6 +32,7 @@ const developer = {
 <div align="center">
 
 ### Languages & Frameworks
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
