@@ -1,181 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6,06B6D4&height=200&section=header&text=Nandan%20Perumalla&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CSE%20Student%20%7C%20Full-Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=60&descSize=18&animation=fadeIn"/>
-
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2800&pause=1200&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+real-world+solutions%2C+one+commit+at+a+time.;Clean+code+%7C+Scalable+systems+%7C+Elegant+logic.;Open+to+collabs%2C+hackathons+%26+internships.)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-
-### 🔗 Find Me Here
-
-<table>
-  <tr>
-    <td align="center" width="200">
-      <a href="https://github.com/Nandanperumalla">
-        <img src="https://skillicons.dev/icons?i=github" width="55" alt="GitHub"/><br/>
-        <b>GitHub</b><br/>
-        <sub>@Nandanperumalla</sub>
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://leetcode.com/u/nandan15/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" width="55" alt="LeetCode" style="display:none"/>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="55" alt="LeetCode"/><br/>
-        <b>LeetCode</b><br/>
-        <sub>@nandan15</sub>
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://www.hackerrank.com/profile/AP23110010918">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/hackerrank.svg" width="55" alt="HackerRank"/><br/>
-        <b>HackerRank</b><br/>
-        <sub>@AP23110010918</sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
-[![GitHub](https://img.shields.io/badge/GitHub-Nandanperumalla-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d1a)](https://github.com/Nandanperumalla)
-[![LeetCode](https://img.shields.io/badge/LeetCode-nandan15-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d0d1a)](https://leetcode.com/u/nandan15/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-AP23110010918-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0d0d1a)](https://www.hackerrank.com/profile/AP23110010918)
-
-</div>
-
----
-
-## 🧑‍💻 About Me
-
-Hey! I'm **Nandan**, a Computer Science Engineering student from India who's obsessed with turning ideas into functional, impactful software. I live at the intersection of clean code and creative problem-solving.
-
-- 🔨 **Building** — full-stack web apps that solve real problems
-- 🧩 **Exploring** — system design, microservices & cloud architecture
-- ⚡ **Sharpening** — DSA daily on [LeetCode](https://leetcode.com/u/nandan15/) & [HackerRank](https://www.hackerrank.com/profile/AP23110010918)
-- 🤝 **Open to** — internships, open-source contributions & collaborations
-- ☕ **Powered by** — coffee and late-night debugging sessions
-
-> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-1a1a2e?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-1a1a2e?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**Backend & Languages**
-
-![Node.js](https://img.shields.io/badge/Node.js-1a1a2e?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Express.js](https://img.shields.io/badge/Express-1a1a2e?style=for-the-badge&logo=express&logoColor=ffffff)
-![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=3776AB)
-![Java](https://img.shields.io/badge/Java-1a1a2e?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![C++](https://img.shields.io/badge/C++-1a1a2e?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-
-**Databases & Tools**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-1a1a2e?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![MySQL](https://img.shields.io/badge/MySQL-1a1a2e?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=ffffff)
-![VS Code](https://img.shields.io/badge/VS%20Code-1a1a2e?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-
-</div>
-
----
-
-## 📊 Coding Profiles at a Glance
-
-### <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="18"/> &nbsp;GitHub — [@Nandanperumalla](https://github.com/Nandanperumalla)
-
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,100:06B6D4&height=180&section=header&text=Nandan%20Perumalla&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%C2%B7%20Problem%20Solver%20%C2%B7%20CSE%20'27&descAlignY=60&descSize=16&animation=fadeIn"/>
 
 <a href="https://github.com/Nandanperumalla">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Nandanperumalla&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a&title_color=8B5CF6&icon_color=06B6D4&text_color=a0a0b0"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandanperumalla&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=8B5CF6&text_color=a0a0b0"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=1000&color=8B5CF6&center=true&vCenter=true&width=620&lines=Clean+code.+Scalable+systems.+Elegant+logic.;Turning+ideas+into+production-ready+software.;Open+to+internships%2C+collabs+%26+hackathons."/>
 </a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Nandanperumalla&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=8B5CF6&fire=06B6D4&currStreakLabel=8B5CF6&sideLabels=a0a0b0&dates=a0a0b0)](https://github.com/Nandanperumalla)
+<br/>
 
-</div>
-
-### <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/leetcode.svg" width="18"/> &nbsp;LeetCode — [@nandan15](https://leetcode.com/u/nandan15/)
-
-<div align="center">
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/nandan15?theme=dark&font=JetBrains+Mono&ext=activity&border=0)](https://leetcode.com/u/nandan15/)
-
-</div>
-
-### <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/hackerrank.svg" width="18"/> &nbsp;HackerRank — [@AP23110010918](https://www.hackerrank.com/profile/AP23110010918)
-
-<div align="center">
-
-[![Problem Solving](https://img.shields.io/badge/Problem_Solving-⭐⭐⭐⭐⭐-00EA64?style=flat-square&labelColor=0d0d1a)](https://www.hackerrank.com/profile/AP23110010918)
-[![Java](https://img.shields.io/badge/Java-⭐⭐⭐⭐⭐-00EA64?style=flat-square&labelColor=0d0d1a)](https://www.hackerrank.com/profile/AP23110010918)
-[![Python](https://img.shields.io/badge/Python-⭐⭐⭐⭐⭐-00EA64?style=flat-square&labelColor=0d0d1a)](https://www.hackerrank.com/profile/AP23110010918)
-[![SQL](https://img.shields.io/badge/SQL-⭐⭐⭐⭐-00EA64?style=flat-square&labelColor=0d0d1a)](https://www.hackerrank.com/profile/AP23110010918)
-
-**[→ View full HackerRank profile & certifications](https://www.hackerrank.com/profile/AP23110010918)**
-
-</div>
-
-> **My solving philosophy:** I don't just crack problems — I dissect them, understand the *why*, and find the most elegant path through.
-
----
-
-## 🚀 Currently Working On
-
-```javascript
-const nandan = {
-  learning:  ["Advanced System Design", "Cloud (AWS)", "GraphQL", "Microservices"],
-  building:  ["Full-stack e-commerce platform", "Algorithm visualizer tool"],
-  goals2025: ["10+ open-source contributions", "3 production apps", "Mentor developers"],
-  mantra:    () => "Code → Learn → Build → Repeat ♾️"
-};
-```
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Nandanperumalla&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/Nandanperumalla)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nandanperumalla&bg_color=0d0d1a&color=8B5CF6&line=06B6D4&point=ffffff&area=true&area_color=8B5CF640&hide_border=true)](https://github.com/Nandanperumalla)
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nandanperumalla)
-[![LeetCode](https://img.shields.io/badge/LeetCode-1a1a2e?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/nandan15/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-1a1a2e?style=for-the-badge&logo=hackerrank&logoColor=00EA64)](https://www.hackerrank.com/profile/AP23110010918)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/nandan-perumalla-580a78319/)
-[![Gmail](https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:nandanperumalla15@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=Nandanperumalla&color=8B5CF6&style=flat-square&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/badge/Based_in-India-06B6D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Status-Open_to_Internships-22C55E?style=flat-square"/>
 
 </div>
 
@@ -183,17 +18,196 @@ const nandan = {
 
 <div align="center">
 
-**Open for:**
-`💼 Internships` · `🚀 Project Collabs` · `🌐 Open Source` · `🎯 Hackathons` · `💬 Tech Talks`
+## 🔗 Where To Find Me
+
+<table>
+<tr>
+<td align="center" width="33%">
+  <a href="https://github.com/Nandanperumalla">
+    <img src="https://cdn.simpleicons.org/github/8B5CF6" width="44"/>
+    <br/><br/>
+    <b>GITHUB</b>
+    <br/>
+    <sub><code>@Nandanperumalla</code></sub>
+  </a>
+  <br/><br/>
+  <a href="https://github.com/Nandanperumalla">
+    <img src="https://img.shields.io/badge/Visit-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</td>
+<td align="center" width="33%">
+  <a href="https://leetcode.com/u/nandan15/">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="44"/>
+    <br/><br/>
+    <b>LEETCODE</b>
+    <br/>
+    <sub><code>@nandan15</code></sub>
+  </a>
+  <br/><br/>
+  <a href="https://leetcode.com/u/nandan15/">
+    <img src="https://img.shields.io/badge/Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+</td>
+<td align="center" width="33%">
+  <a href="https://www.hackerrank.com/profile/AP23110010918">
+    <img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="44"/>
+    <br/><br/>
+    <b>HACKERRANK</b>
+    <br/>
+    <sub><code>@AP23110010918</code></sub>
+  </a>
+  <br/><br/>
+  <a href="https://www.hackerrank.com/profile/AP23110010918">
+    <img src="https://img.shields.io/badge/Verify-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<br/>
+
+## ⚡ About
+
+```yaml
+name:      Nandan Perumalla
+role:      Computer Science Engineering Student  →  Full-Stack Developer
+focus:     [ Web Apps, System Design, Cloud, DSA ]
+building:  [ Full-stack e-commerce platform, Algorithm visualizer ]
+learning:  [ Microservices, AWS, GraphQL, Distributed Systems ]
+open_to:   [ Internships, Open Source, Hackathons, Collabs ]
+fuel:      coffee + late-night debugging
+```
+
+> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+
+<br/>
+
+## 🧰 Tech Stack
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Nandanperumalla&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)
+**Languages**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6,06B6D4&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&fontAlignY=70&animation=fadeIn"/>
+<img src="https://skillicons.dev/icons?i=js,python,java,cpp,html,css&theme=dark" height="48"/>
+
+**Frameworks & Runtime**
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,tailwind&theme=dark" height="48"/>
+
+**Data & Infra**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,linux&theme=dark" height="48"/>
+
+</div>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/Nandanperumalla">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nandanperumalla&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4&text_color=8B949E&ring_color=8B5CF6"/>
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandanperumalla&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=8B949E"/>
+</a>
+
+<a href="https://github.com/Nandanperumalla">
+<img width="91%" src="https://streak-stats.demolab.com?user=Nandanperumalla&hide_border=true&background=0D1117&ring=8B5CF6&fire=06B6D4&currStreakLabel=8B5CF6&sideLabels=8B949E&dates=6E7681&stroke=21262D&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+</a>
+
+<a href="https://github.com/Nandanperumalla">
+<img width="91%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nandanperumalla&bg_color=0D1117&color=8B5CF6&line=06B6D4&point=FFFFFF&area=true&area_color=8B5CF640&hide_border=true"/>
+</a>
+
+<img width="91%" src="https://github-profile-trophy.vercel.app/?username=Nandanperumalla&theme=onestar&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7"/>
+
+</div>
+
+<br/>
+
+## ⚔️ Competitive Programming
+
+<div align="center">
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+<a href="https://leetcode.com/u/nandan15/">
+  <img src="https://leetcard.jacoblin.cool/nandan15?theme=dark&font=JetBrains%20Mono&ext=activity&border=0&radius=12"/>
+</a>
+
+</td>
+<td width="45%" valign="top">
+
+<br/>
+
+**🟢 HackerRank Badges**
+
+<a href="https://www.hackerrank.com/profile/AP23110010918">
+
+`⭐⭐⭐⭐⭐` &nbsp;Problem Solving  
+`⭐⭐⭐⭐⭐` &nbsp;Java  
+`⭐⭐⭐⭐⭐` &nbsp;Python  
+`⭐⭐⭐⭐` &nbsp;&nbsp;&nbsp;SQL  
+`⭐⭐⭐⭐` &nbsp;&nbsp;&nbsp;C++
+
+</a>
+
+<br/>
+
+<a href="https://www.hackerrank.com/profile/AP23110010918">
+  <img src="https://img.shields.io/badge/View_Full_Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+> **How I solve:** I don't just crack problems — I dissect them, understand the *why*, and find the most elegant path through.
+
+<br/>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | What it does | Stack |
+|:--|:--|:--|
+| **[FAQFlow AI](https://github.com/Nandanperumalla)** | RAG-powered SaaS chatbot for instant knowledge-base answers | `React` `FastAPI` `OpenAI` |
+| **[JusticeGPT](https://github.com/Nandanperumalla)** | AI legal assistant that makes law accessible in plain language | `Python` `LLM` `Flask` |
+| **[AI Exam Shield](https://github.com/Nandanperumalla)** | Real-time proctoring platform with CV-based cheat detection | `Python` `CNN` `OpenCV` |
+| **[Smart Home Automation](https://github.com/Nandanperumalla)** | IoT-driven device control with automated routines | `Python` `IoT` `MQTT` |
+| **[Brain MRI Classifier](https://github.com/Nandanperumalla)** | CNN pipeline for tumor classification from MRI scans | `TensorFlow` `CNN` |
+
+<a href="https://github.com/Nandanperumalla?tab=repositories">
+  <img src="https://img.shields.io/badge/→_Browse_all_repositories-0D1117?style=for-the-badge&logo=github&logoColor=8B5CF6"/>
+</a>
+
+</div>
+
+<br/>
+
+## 🤝 Let's Build Something
+
+<div align="center">
+
+<a href="https://github.com/Nandanperumalla"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://leetcode.com/u/nandan15/"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"/></a>
+<a href="https://www.hackerrank.com/profile/AP23110010918"><img src="https://img.shields.io/badge/HackerRank-0D1117?style=for-the-badge&logo=hackerrank&logoColor=00EA64"/></a>
+<a href="https://www.linkedin.com/in/nandan-perumalla-580a78319/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
+<a href="mailto:nandanperumalla15@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
+
+<br/><br/>
+
+`💼 Internships` &nbsp;·&nbsp; `🚀 Project Collabs` &nbsp;·&nbsp; `🌐 Open Source` &nbsp;·&nbsp; `🎯 Hackathons`
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:8B5CF6&height=110&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&fontAlignY=72&animation=fadeIn"/>
 
 </div>
